@@ -6,3 +6,5 @@ print(k)
 print(k*2)
 
 print(k-23)
+print(k*23)
+
